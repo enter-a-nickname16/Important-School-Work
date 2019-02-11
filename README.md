@@ -4,5 +4,4 @@ TODO:
     like/dislike games
     comment on games
 2. A 'suggested' list of games listed on the webpages of games
-3. get more games and figure out copyright stuff
-4. Make the site look less empty
+3. Make the site look less empty
