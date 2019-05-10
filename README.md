@@ -4,4 +4,3 @@ TODO:
     like/dislike games
     comment on games
 2. A 'suggested' list of games listed on the webpages of games
-3. Make the site look less empty
